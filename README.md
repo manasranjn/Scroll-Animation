@@ -1,0 +1,2 @@
+# Scroll-Animation
+This is an interactive project that brings web content to life with smooth animations. As users scroll down the page, elements dynamically slide in from the left and right, creating an engaging visual experience. When scrolling in reverse, these elements gracefully exit in the opposite direction, maintaining a seamless flow. This simple yet captivating effect enhances user interaction, making the page feel more responsive and lively.
